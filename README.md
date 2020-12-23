@@ -9,7 +9,8 @@ For instance, data collected while creating a new account for a customer will in
 
 The repository consists of the following:
 
-1) Detailed Report for execution and idea of the project
+1) Detailed Design & Project Report for execution and idea of the project
 2) MS Visio Design 
 3) SQL queries file
+4) Project Presentation
 
