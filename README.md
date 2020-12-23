@@ -1,6 +1,7 @@
 # Telecom Database Management System
 
-Teksus Telecommunications, a company with diverse set of telecommunication products and services wants to leverage its customer data, for gaining actionable insights to boost its sales and try and create a monopoly in the industry using targeted marketing and on the fly services. The firm provides services such as internet services (wireline & wireless), Cable TV, telephone & mobile services, Voice over IP and over the top (OTT) video streaming services similar to video on demand.
+Project Abstract: 
+A Telecommunications company with diverse set of telecommunication products and services wants to leverage its customer data, for gaining actionable insights to boost its sales and try and create a monopoly in the industry using targeted marketing and on the fly services. The firm provides services such as internet services (wireline & wireless), Cable TV, telephone & mobile services, Voice over IP and over the top (OTT) video streaming services similar to video on demand.
 
 Currently, majority of the billing & customer related data is handled physically, and the firm is planning on going digital on all its data sources. This transition will not only bring all data sources together but will also make data available on the go. This project will additionally help in creating better actionable marketing insights due to all forms of data integrated at one place, which will be used by leadership teams for running marketing campaigns.
 
